@@ -44,7 +44,10 @@ int main() {
     scanf ("%d/n", &pontos_tur);
 
     printf("A cidade é: %d/n", cidade);
-    printf("Sua população é de: %d/n habitantes");
+    printf("Sua população é de: %d/n", populacao);
+    printf("Possui uma área de: %d m2 /n", area);
+    printf("Seu PIB é de: %d /n,", pib);
+    printf("Possui %d pontos turísticos /n", pontos_tur);
 
 
 
